@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "offer_details",
+  "info": {
+    "singularName": "offer-detail",
+    "pluralName": "offer-details",
+    "displayName": "OfferDetail"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "Content": {
+      "type": "text"
+    }
+  }
+}
